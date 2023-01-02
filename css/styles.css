@@ -1,0 +1,32 @@
+body {
+    color: #004A7C;
+    background-color: #FAFAFA;
+}
+
+h3 {
+    color: #005691;
+    padding-left: 5px;
+}
+
+.heading {
+    padding: 15px;
+    display: flex;
+    align-content: left;
+}
+
+.heading-txt{
+    padding-left: 20px;
+    text-align: center;
+}
+
+.accordion-item{
+    padding-left: 15px;
+}
+
+.skills {
+    padding-left: 35px;
+}
+
+.profile-pic{
+    height: 100px;
+}
