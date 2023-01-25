@@ -1,6 +1,7 @@
 body {
     color: #004A7C;
     background-color: #FAFAFA;
+    font-size: 1.2em;
 }
 
 h3 {
@@ -23,6 +24,10 @@ h3 {
     padding-left: 15px;
 }
 
+.accordion-button{
+    font-size: .7em;
+}
+
 .skills {
     padding-left: 35px;
 }
@@ -41,6 +46,10 @@ h3 {
 
 p {
     padding: 0;
+}
+
+.table{
+    font-size: 1.3em;
 }
 
 @media all and (max-width: 750px) { /* screen size until 500px */
