@@ -30,3 +30,15 @@ h3 {
 .profile-pic{
     height: 100px;
 }
+
+.skill{
+    width: 15%;
+}
+
+.experience{
+    width: 85%;
+}
+
+p {
+    padding: 0;
+}
